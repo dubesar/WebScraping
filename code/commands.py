@@ -15,7 +15,7 @@ soup.find_all('table')
 (This gives all the tables on the page)
 
 Inorder to find the table you want we can use:
-soup.find_all('table',class_='wikitable sortable plainrowheaders') ----- This is for example we have to type the class of table we want
+soup.find_all('table',class_='wikitable sortable plainrowheaders') - This is for example we have to type the class of table we want
 
 #Generate lists
 A=[]
