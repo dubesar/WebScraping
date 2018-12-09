@@ -1,2 +1,8 @@
 # WebScraping
-My WebScraping Codes
+# My WebScraping Codes
+
+
+## Libraries Used for WebScraping:
+Urllib2
+BeautifulSoup
+
